@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/NjQZf0Huegbw23JerGUnkg94e7q/UMtaYZ8Nw7Nj0kyIRlwHBJ0C0O4wouEKgIXWoWsV4ntLML68nHf0Msiew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\locadm\\Desktop\\Test\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\locadm\\.nuget\\packages\\extended.wpf.toolkit\\3.6.0\\extended.wpf.toolkit.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

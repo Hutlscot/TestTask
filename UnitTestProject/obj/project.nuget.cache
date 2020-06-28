@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6UAbBDQLxSuMj68KfNghivSe5ihIuBF0eBlcjNg+OP/rFSuWrU6sdK0kZIMDL48dV+Iy5boYQ3u4yJTKNln0Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\locadm\\Desktop\\Test\\UnitTestProject\\UnitTestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\locadm\\.nuget\\packages\\extended.wpf.toolkit\\3.6.0\\extended.wpf.toolkit.3.6.0.nupkg.sha512",
+    "C:\\Users\\locadm\\.nuget\\packages\\mstest.testadapter\\2.1.1\\mstest.testadapter.2.1.1.nupkg.sha512",
+    "C:\\Users\\locadm\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
